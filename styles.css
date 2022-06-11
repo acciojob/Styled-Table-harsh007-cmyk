@@ -1,1 +1,18 @@
 /* your code */
+.Table{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(230, 230, 241);
+    border-collapse: collapse;
+    text-align: center;
+}
+.FirstRow{
+    background-color: rgb(130, 130, 243);
+    height: 50px;
+}
+td{
+    border: none;
+}
+tr{
+    height: 30px;
+}
