@@ -15,4 +15,5 @@ td{
 }
 tr{
     height: 30px;
+    border: solid rgb(107, 107, 251);
 }
